@@ -16,11 +16,10 @@ I'm trying to create a machine to simplified the process.
 2. Could a industry under estimate?
 
 ## Resources
-
 1. Find the salary range: https://www.levels.fyi/
 2. Job Boards:
-  - LinkedIn
-  - Dice
-  - Indeed
-  - Glassdoor
-  - ...
+    - LinkedIn
+    - Dice
+    - Indeed
+    - Glassdoor
+    - ...
